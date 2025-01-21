@@ -20,10 +20,9 @@ Dataset: ficticius data sensors machine - 1000 rows with target.
 *  LeaveOneOut (LOOCV)
 
 ### Results
-
+![alt text](image-6.png)
 ![alt text](image-2.png)
 
-![alt text](image-1.png)
 ![alt text](image-5.png)
 
 ### Simulation:
